@@ -1,4 +1,4 @@
-## 프로젝트 명 : IM Ground(Information Animal Medical Ground)
+## 프로젝트 명 : 도서관 관리 웹 사이트
 ![image](webapp/icon/열람실.png)
 
 
