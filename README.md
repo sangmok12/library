@@ -1,5 +1,5 @@
 ## 프로젝트 명 : IM Ground(Information Animal Medical Ground)
-![image](https://github.com/DJSon2/im-ground-repository/assets/124123956/d315819d-297d-464d-91b5-1aa8c1d6d0c2)
+![image](webapp/icon/열람실.png)
 
 
 ## 프로젝트 개요
