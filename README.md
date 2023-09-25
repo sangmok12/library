@@ -78,16 +78,16 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 
 🥇프로젝트 포트폴리오 수상 및 수료
 <table>
- <tr width="450" height="600">
-  <td width="150">
+ <tr width="750" height="600">
+  <td width="250">
    
    ![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
 </td>
-  <td width="150">
+  <td width="250">
    
    ![수료증2](https://github.com/sangmok12/library/assets/132993309/cb686b21-ad3f-4d1a-bb5c-bd6b49d6ab8e)
 </td>
-  <td width="150">
+  <td width="250">
    
    ![수료증1](https://github.com/sangmok12/library/assets/132993309/6cdc9f4d-8964-4e07-83fe-47431b7b935e)
 </td>
