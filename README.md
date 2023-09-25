@@ -46,6 +46,12 @@ https://github.com/sangmok12/library/assets/132993309/a45297cc-0004-444e-b877-de
 
 
 https://github.com/sangmok12/library/assets/132993309/598daff0-9025-4e53-86be-7f1bfc278d8d
+* 파일 업로드, 다운로드와 메인화면 적용
+
+
+https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6dbb263721e6
+
+
 
 
 
@@ -56,7 +62,7 @@ https://github.com/sangmok12/library/assets/132993309/598daff0-9025-4e53-86be-7f
 
 
 # 기여한 파일
-* [주요 담당 페이지](https://github.com/DJSon2/im-ground-repository/blob/main/api/mapApi.html)
+* [메인 페이지](https://github.com/DJSon2/im-ground-repository/blob/main/api/mapApi.html)
 * [요청 처리 및 DB 쿼리 수행 컨트롤러](https://github.com/DJSon2/im-ground-repository/blob/main/MapApiController.java)
 * [전문가 회원 가입 파일](https://github.com/DJSon2/im-ground-repository/blob/main/regist/regist-promember.html)
 
