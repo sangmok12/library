@@ -26,7 +26,7 @@
 * 도서관 일정 확인
 * 회원가입 시 자동으로 개별 QR코드 생성
 
-## 담당 역할 
+## 담당 역할 (팀장)
 * 팀원들의 기능 분배, 전체 흐름관리, 미흡한 부분 수정
 * 전체 LAYOUT, INCLUDE 구성 , CSS
 * 도서관 일정의 등록,수정,삭제,출력 등
@@ -77,5 +77,14 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 
 
 🥇프로젝트 포트폴리오 수상 및 수료
-[수료증_임상목.pdf](https://github.com/sangmok12/library/files/12714739/_.pdf)
-![상장](https://github.com/sangmok12/library/assets/132993309/434ce3ce-a44b-4f8f-b47f-5630b782dc95)
+<table>
+ <tr width="600" height="900">
+  <td width="200">![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
+</td>
+  <td width="200">![수료증2](https://github.com/sangmok12/library/assets/132993309/cb686b21-ad3f-4d1a-bb5c-bd6b49d6ab8e)
+</td>
+  <td width="200">![수료증1](https://github.com/sangmok12/library/assets/132993309/6cdc9f4d-8964-4e07-83fe-47431b7b935e)
+</td>
+  
+ </tr>
+</table>
