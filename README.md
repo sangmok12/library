@@ -29,15 +29,13 @@
 ## 담당 역할 
 * 팀원들의 기능 분배, 전체 흐름관리, 미흡한 부분 수정
 * 전체 LAYOUT, INCLUDE 구성 , CSS
-* 
-
-https://github.com/sangmok12/library/assets/132993309/f1729756-664c-4772-adb9-bc11281aea0b
-
-
 * 도서관 일정의 등록,수정,삭제,출력 등
 * 세션아이디로 도서 대출, 저장
 * 웹 메인화면에 대표 기능들 합치고, 출력
 
+## 주요 기능 구동 영상
+회원가입 QR자동 생성과 메인화면
+https://github.com/sangmok12/library/assets/132993309/f1729756-664c-4772-adb9-bc11281aea0b
 
 # 기여한 파일
 * [주요 담당 페이지](https://github.com/DJSon2/im-ground-repository/blob/main/api/mapApi.html)
