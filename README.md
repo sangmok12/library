@@ -62,9 +62,10 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 
 
 # 기여한 파일
-* [메인 페이지](https://github.com/DJSon2/im-ground-repository/blob/main/api/mapApi.html)
-* [요청 처리 및 DB 쿼리 수행 컨트롤러](https://github.com/DJSon2/im-ground-repository/blob/main/MapApiController.java)
-* [전문가 회원 가입 파일](https://github.com/DJSon2/im-ground-repository/blob/main/regist/regist-promember.html)
+* [메인 페이지](https://github.com/sangmok12/library/blob/main/webapp/main/main.jsp)
+* [일정등록](https://github.com/sangmok12/library/blob/main/webapp/calendar/libCalInput.jsp)
+* [일정보기](https://github.com/sangmok12/library/blob/main/webapp/calendar/libCalendar.jsp)
+* [도서대출](https://github.com/sangmok12/library/blob/main/webapp/library/bookRent.jsp)
 
 # 프로젝트 진행 중 문제 상황
 * 비동기 통신으로 요청한 마커 표시 기능이 중복 생성되어 과도한 리소스가 낭비되는 상황
