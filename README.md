@@ -35,7 +35,9 @@
 
 ## 주요 기능 구동 영상
 회원가입 QR자동 생성과 메인화면
-https://github.com/sangmok12/library/assets/132993309/f1729756-664c-4772-adb9-bc11281aea0b
+https://github.com/sangmok12/library/assets/132993309/e8fac3dc-ad32-4874-9da0-0f2fd1dc62f5
+
+
 
 # 기여한 파일
 * [주요 담당 페이지](https://github.com/DJSon2/im-ground-repository/blob/main/api/mapApi.html)
