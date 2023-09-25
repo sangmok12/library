@@ -35,7 +35,11 @@
 
 ## 주요 기능 구동 영상
 * 회원가입 QR자동 생성과 메인화면
-* https://github.com/sangmok12/library/assets/132993309/e8fac3dc-ad32-4874-9da0-0f2fd1dc62f5
+
+
+https://github.com/sangmok12/library/assets/132993309/80898943-296b-4f93-a939-ea9f2e5d01d2
+
+
 
 
 
