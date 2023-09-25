@@ -49,23 +49,23 @@ public class LibEventController {
 		// 파일
 		String str = "ok";
 		String path = propertiesService.getString("Globals.fileStorePath");
-		
-		System.out.println(map1);
-		// 파일업로드는 아래 메소드에서 진행
-		 Map<String,String> map2 = uploadProcess(multiRequest,path);
+		System.out.println("str"+str);
+		System.out.println("path"+path);
+		// 파일업로드는 아래 메소드에서 진행 
+		Map<String, String> map2 = uploadProcess(multiRequest, path);
+
 		if(map2.get("file1") != null && !map2.get("file1").equals("")) {
 			map1.put("file1", map2.get("file1"));
 		}
 		if(map2.get("file2") != null && !map2.get("file2").equals("")) {
 			map1.put("file2", map2.get("file2"));
 		}
-		
-		//System.out.println("ddddddddffffffffdd:"+map1.get("title"));  -->여기까지나옴
-		
+		System.out.println("file1"+map1.get("file1"));
+		System.out.println("file2"+map1.get("file2"));
 		String title = (String) map1.get("title");
 	    String content = (String) map1.get("content");
 	    map1.put("title", HtmlUtils.htmlEscape(title));
-	    map1.put("content", HtmlUtils.htmlEscape(content));
+	    map1.put("content", HtmlUtils.htmlEscape(content));  
 		
 		
 		String result = libeventService.libEventWriteSave(map1);
@@ -86,19 +86,36 @@ public class LibEventController {
 			Map<String,String> map1 = new HashMap<String,String>();
 		
 			Iterator<Entry<String, MultipartFile>> itr = files.entrySet().iterator();
-			int number = 1;
 		
 			while (itr.hasNext()) {
 				Entry<String, MultipartFile> entry = itr.next();
+				
 				MultipartFile file = entry.getValue();
 				String orgname = file.getOriginalFilename();
 				
 				if( orgname != null && !orgname.equals("") ) {
 					filePath = path + "/" + orgname;
 					file.transferTo(new File(filePath));
-					map1.put("file"+number,orgname);
 					
-				number++;
+					// 파일 확장자 추출
+		            int dotIndex = orgname.lastIndexOf('.');
+		            String fileExtension = orgname.substring(dotIndex + 1);
+
+		            // 파일 확장자 비교 (대소문자 구분 없이)
+		            if (fileExtension.equalsIgnoreCase("jpg")  ||
+		            	fileExtension.equalsIgnoreCase("png")  ||
+		                fileExtension.equalsIgnoreCase("gif")  ||
+		                fileExtension.equalsIgnoreCase("jpeg") ||
+		                fileExtension.equalsIgnoreCase("JPEG") ||
+		                fileExtension.equalsIgnoreCase("JPG")  ||
+		            	fileExtension.equalsIgnoreCase("PNG")  ||
+		                fileExtension.equalsIgnoreCase("GIF")) {
+		                map1.put("file1", orgname);
+		            } else {
+		                map1.put("file2", orgname);
+		            }
+					
+				
 			}
 		}
 	
@@ -196,6 +213,8 @@ public class LibEventController {
 		// 상세보기  
 		LibEventVO vo = libeventService.selectLibEventDetail(unq);
 		
+		
+		
 		String content = vo.getContent();
 		content = content.replace("\n","<br>");
 		content = content.replace(" ","&nbsp;");
@@ -205,6 +224,10 @@ public class LibEventController {
 		
 		return "libeventboard/libEventDetail";
 	}
+	
+	
+	
+	
 	//회원만 보는 화면
 	@RequestMapping("/libEventDetail2.do")
 	
