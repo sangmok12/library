@@ -76,9 +76,9 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 ![image](https://github.com/DJSon2/im-ground-repository/assets/124123956/025c265b-4b8c-4781-a1ff-ec95d691844f)
 
 
-🥇프로젝트 포트폴리오 수상 및 수료
+🥇프로젝트 포트폴리오 수상 및 수료(클릭하면 원본 사진을 볼 수 있습니다.)
 <table>
- <tr width="1200" height="600">
+ <tr width="1200" height="500">
   <td width="400">
    
    ![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
