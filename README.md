@@ -42,6 +42,11 @@ https://github.com/sangmok12/library/assets/132993309/80898943-296b-4f93-a939-ea
 
 
 https://github.com/sangmok12/library/assets/132993309/a45297cc-0004-444e-b877-ded6d4221208
+* 열람실 사용시작과 퇴실
+
+
+https://github.com/sangmok12/library/assets/132993309/598daff0-9025-4e53-86be-7f1bfc278d8d
+
 
 
 
