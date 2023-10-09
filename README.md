@@ -67,13 +67,13 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 * [일정보기](https://github.com/sangmok12/library/blob/main/webapp/calendar/libCalendar.jsp)
 * [도서대출](https://github.com/sangmok12/library/blob/main/webapp/library/bookRent.jsp)
 
-# 트러블 슈팅
-* 첫번째<br>
+# 트러블 슈팅1
+
 <img width="702" alt="스크린샷 2023-10-09 오후 4 39 44" src="https://github.com/sangmok12/library/assets/132993309/84a1be00-2d68-4719-8bf4-dac9d8e464d5">
 <img width="721" alt="스크린샷 2023-10-09 오후 4 39 52" src="https://github.com/sangmok12/library/assets/132993309/83e06688-94a3-41d5-9bb0-9ac3a520fb37">
 <img width="718" alt="스크린샷 2023-10-09 오후 4 40 01" src="https://github.com/sangmok12/library/assets/132993309/72b5290b-b233-436b-9351-5292d71a7d7e">
 <br>
-* 두번째<br>
+## 트러블 슈팅2
 <img width="714" alt="스크린샷 2023-10-09 오후 4 40 11" src="https://github.com/sangmok12/library/assets/132993309/4b81be68-b0ad-4e11-9365-5349057ea66c">
 <img width="718" alt="스크린샷 2023-10-09 오후 4 40 18" src="https://github.com/sangmok12/library/assets/132993309/470b8bbc-94a4-4172-b7be-0a19c2f84c72">
 <img width="706" alt="스크린샷 2023-10-09 오후 4 40 26" src="https://github.com/sangmok12/library/assets/132993309/1c4578d3-2b6a-46fc-a8f5-c428670430fe">
