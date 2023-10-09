@@ -67,13 +67,13 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 * [일정보기](https://github.com/sangmok12/library/blob/main/webapp/calendar/libCalendar.jsp)
 * [도서대출](https://github.com/sangmok12/library/blob/main/webapp/library/bookRent.jsp)
 
-# 프로젝트 진행 중 문제 상황
-* 비동기 통신으로 요청한 마커 표시 기능이 중복 생성되어 과도한 리소스가 낭비되는 상황
-![image](https://github.com/DJSon2/im-ground-repository/assets/124123956/056d6eae-5393-4666-9d43-416797f5cffd)
-* 해결 방안
-  * 표시될 마커를 배열로 관리하여, 비동기 요청 마다 이전의 마커를 삭제 시키는 방식
-  * DB의 위치 정보 및 관련 내용을 jQuery로 나타내는 리스트 형식도 같이 초기
-![image](https://github.com/DJSon2/im-ground-repository/assets/124123956/025c265b-4b8c-4781-a1ff-ec95d691844f)
+# 트러블 슈팅
+* 첫번째
+
+<img width="702" alt="스크린샷 2023-10-09 오후 4 39 44" src="https://github.com/sangmok12/library/assets/132993309/84a1be00-2d68-4719-8bf4-dac9d8e464d5">
+<img width="721" alt="스크린샷 2023-10-09 오후 4 39 52" src="https://github.com/sangmok12/library/assets/132993309/83e06688-94a3-41d5-9bb0-9ac3a520fb37">
+<img width="718" alt="스크린샷 2023-10-09 오후 4 40 01" src="https://github.com/sangmok12/library/assets/132993309/72b5290b-b233-436b-9351-5292d71a7d7e">
+
 
 
 🥇프로젝트 포트폴리오 수상 및 수료(클릭하면 원본 사진을 보실 수 있습니다.)
