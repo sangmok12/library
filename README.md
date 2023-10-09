@@ -73,14 +73,16 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 <img width="721" alt="스크린샷 2023-10-09 오후 4 39 52" src="https://github.com/sangmok12/library/assets/132993309/83e06688-94a3-41d5-9bb0-9ac3a520fb37">
 <img width="718" alt="스크린샷 2023-10-09 오후 4 40 01" src="https://github.com/sangmok12/library/assets/132993309/72b5290b-b233-436b-9351-5292d71a7d7e">
 <br>
-## 트러블 슈팅2
+
+# 트러블 슈팅2
+
 <img width="714" alt="스크린샷 2023-10-09 오후 4 40 11" src="https://github.com/sangmok12/library/assets/132993309/4b81be68-b0ad-4e11-9365-5349057ea66c">
 <img width="718" alt="스크린샷 2023-10-09 오후 4 40 18" src="https://github.com/sangmok12/library/assets/132993309/470b8bbc-94a4-4172-b7be-0a19c2f84c72">
 <img width="706" alt="스크린샷 2023-10-09 오후 4 40 26" src="https://github.com/sangmok12/library/assets/132993309/1c4578d3-2b6a-46fc-a8f5-c428670430fe">
 <br>
 
+# 🥇프로젝트 포트폴리오 수상 및 수료(클릭하면 원본 사진을 보실 수 있습니다.)
 
-🥇프로젝트 포트폴리오 수상 및 수료(클릭하면 원본 사진을 보실 수 있습니다.)
 <table>
  <tr width="1200" height="450">
   <td width="400">
