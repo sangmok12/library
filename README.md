@@ -14,6 +14,7 @@
 * DB : Oracle 18c
 * API : KAKAO MAP API, KAKAO BOOK API
 * Server : Apache Tomcat
+* 형상관리 SVN
 
 ## 개발 기간 : 2023.08.01 ~ 2023.09.01
 
