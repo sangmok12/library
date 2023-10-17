@@ -82,22 +82,3 @@ https://github.com/sangmok12/library/assets/132993309/9382c967-dc97-48af-ac7d-6d
 <img width="706" alt="스크린샷 2023-10-09 오후 4 40 26" src="https://github.com/sangmok12/library/assets/132993309/1c4578d3-2b6a-46fc-a8f5-c428670430fe">
 <br>
 
-# 🥇프로젝트 포트폴리오 수상 및 수료(클릭하면 원본 사진을 보실 수 있습니다.)
-
-<table>
- <tr width="1200" height="450">
-  <td width="400">
-   
-   ![상장](https://github.com/sangmok12/library/assets/132993309/a81f44a4-4e41-4405-b5cf-a37799f2676c)
-</td>
-  <td width="400">
-   
-   ![수료증2](https://github.com/sangmok12/library/assets/132993309/cb686b21-ad3f-4d1a-bb5c-bd6b49d6ab8e)
-</td>
-  <td width="400">
-   
-   ![수료증1](https://github.com/sangmok12/library/assets/132993309/6cdc9f4d-8964-4e07-83fe-47431b7b935e)
-</td>
-  
- </tr>
-</table>
