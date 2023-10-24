@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>이용시간</title>
+<title>오시는길</title>
 </head>
 <link rel="stylesheet" href="../css/lib.css">
 <style>
@@ -86,12 +86,12 @@ ul.default {
 <br>
 <br>
 <div id="map" style="width:800px;height:600px;"></div>
-   <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=3ca739bc306250237e298c204ba7b553"></script>
+   <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=075945e5df1f9f68662d0d3aca79daf2"></script>
    <script>
     var container = document.getElementById('map');
     var options = {
         center: new kakao.maps.LatLng(37.605046, 127.140480),
-        level: 2
+        level: 3
     };
 
     var map = new kakao.maps.Map(container, options);
